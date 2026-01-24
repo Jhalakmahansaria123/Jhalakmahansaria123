@@ -7,7 +7,7 @@ I'm a Computer Science student who is passionate about development and enjoys tu
 - Learning Backend Technologies  
 - Building real-world projects
 
-### My portfolio
+###  🌱 My portfolio
 https://portfolio-jhalakmahansaria3.netlify.app/
 
 ### 🛠️ Tech Stack
